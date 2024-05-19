@@ -1,3 +1,4 @@
+#  linear regression: based on the mean and is used to predict the continuous dependent varible and independent varibles
 #  1. Data preprocessing Handle missing data
 #  2. Linear Regression Using Multple varibles 
 #  price = m1 * area + m2 * bedrooms + m3 * age +b
