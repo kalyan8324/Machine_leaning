@@ -1,7 +1,7 @@
-
-
-
-
+#  The decision tree algorithm is type based modeling under supervised machine leaning
+#  Dession tree are primirily used solve classification problem s 
+#  CART (Classification and regression Trees) (GINI index which is determine which features to use and the order of the features in the process
+#  ID3 (Iterative Dichotomiser 3) => this type of tree uses a value Called information tree or Entropy to determine which feature to use 
 
 import pandas as pd
 import numpy as np
